@@ -7,19 +7,19 @@
 <hr/>
 <h4 align="center">I am a passionate and innovative senior at FAST-NUCES Islamabad, Pakistan with a love for coding, design, and experimentation. I thrive on taking on new challenges and acquiring new skills, and I enjoy meeting new people and exchanging ideas to foster positivity and knowledge-sharing.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="HxnDev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="AbdulSamieOfficial" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HxnDev&theme=algolia" alt="AbdulSamieOfficial"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSamieOfficial&theme=algolia" alt="AbdulSamieOfficial"  /></p>
 
 ## 💻 GitHub Profile Stats:
 
   <br/>
   <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HxnDev&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdulSamieOfficial&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HxnDev&show_icons=true&locale=en&layout=compact&theme=algolia" alt="HxnDev" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulSamieOfficial&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AbdulSamieOfficial" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
