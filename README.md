@@ -26,7 +26,7 @@
 
 ## ⚡ GitHub Activity Graph:
   <br/>
-   <a href="https://github.com/AbdulSamieOfficial"><img alt="Samie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HxnDev&custom_title=Hassan%20Shahzad's%20Contribution%20Graph&theme=react-dark" /></a>
+   [![Samie's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbdulSamieOfficial)](https://github.com/AbdulSamieOfficial/github-readme-activity-graph)
   <br/>
 
 ## 🐍 See my contributions being eaten by a snake:
