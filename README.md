@@ -10,7 +10,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="HxnDev" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HxnDev&theme=algolia" alt="HxnDev"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HxnDev&theme=algolia" alt="AbdulSamieOfficial"  /></p>
 
 ## 💻 GitHub Profile Stats:
 
@@ -26,7 +26,7 @@
 
 ## ⚡ GitHub Activity Graph:
   <br/>
-   <a href="https://github.com/HxnDev"><img alt="Hxn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HxnDev&custom_title=Hassan%20Shahzad's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/AbdulSamieOfficial"><img alt="Samie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HxnDev&custom_title=Hassan%20Shahzad's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 ## 🐍 See my contributions being eaten by a snake:
@@ -122,7 +122,7 @@
 <p align="center">
   <a href="http://www.hxndev.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:abdulsamie488@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/HxnDev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/AbdulSamieOfficial"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/abdul-samie-0215371a6/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/hxn_photography/?hl=en"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
