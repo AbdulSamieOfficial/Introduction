@@ -10,7 +10,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="AbdulSamieOfficial" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=AbdulSamieOfficial)](https://git.io/streak-stats)" alt="AbdulSamieOfficial"  /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AbdulSamieOfficial)](https://git.io/streak-stats)
 
 ## 💻 GitHub Profile Stats:
 
