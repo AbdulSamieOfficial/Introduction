@@ -26,7 +26,7 @@
 
 ## ⚡ GitHub Activity Graph:
   <br/>
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbdulSamieOfficial&bg_color=0a0a0a&color=ffffff&line=0571ff&point=1d1b1b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Samie's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AbdulSamieOfficial&bg_color=0a0a0a&color=ffffff&line=0571ff&point=1d1b1b&area=true&hide_border=true" /></a>
   <br/>
 
 ## 🐍 See my contributions being eaten by a snake:
