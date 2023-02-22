@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Hassan Shahzad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Abdul Samie <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Developer;Deep+Learning;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -30,7 +30,7 @@
   <br/>
 
 ## 🐍 See my contributions being eaten by a snake:
-![Snake Gif](https://github.com/HxnDev/HxnDev/blob/output/github-contribution-grid-snake.gif)
+![Snake Gif](https://github.com/AbdulSamieOfficial/AbdulSamieOfficial/blob/output/github-contribution-grid-snake.gif)
 
 ## 🛠️ My Skills
 
@@ -121,9 +121,9 @@
 ## 📫 Contact Me: 
 <p align="center">
   <a href="http://www.hxndev.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:chhxnshah@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:abdulsamie488@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/HxnDev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/hassan-shahzad-2a6617212/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/abdul-samie-0215371a6/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/hxn_photography/?hl=en"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
