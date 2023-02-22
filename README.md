@@ -7,8 +7,8 @@
 <hr/>
 <h4 align="center">I am a passionate and innovative senior at FAST-NUCES Islamabad, Pakistan with a love for coding, design, and experimentation. I thrive on taking on new challenges and acquiring new skills, and I enjoy meeting new people and exchanging ideas to foster positivity and knowledge-sharing.</h4>
 <br>
-![Visitor Count](https://profile-counter.glitch.me/{AbdulSamieOfficial}/count.svg)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="AbdulSamieOfficial" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdulSamieOfficial&label=Profile%20views&color=0e75b6&style=plastic" alt="AbdulSamieOfficial" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSamieOfficial&theme=algolia" alt="HxnDev"  /></p>
