@@ -32,7 +32,7 @@
   <br/>
 
 ## 🐍 See my contributions being eaten by a snake:
-![snake animation](https://github.com/abdulsamieofficial/abdulsamie10/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/abdulsamie10/abdulsamie10/blob/output/github-contribution-grid-snake.gif)
 
 ## 🛠️ My Skills
 
