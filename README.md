@@ -18,21 +18,21 @@
 
   <br/>
   <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdulSamieOfficial&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdulSamie10&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulSamieOfficial&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AbdulSamieOfficial" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulsamie10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abdulsamie10" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
 ## ⚡ GitHub Activity Graph:
   <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Samie's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AbdulSamieOfficial&bg_color=0a0a0a&color=ffffff&line=0571ff&point=1d1b1b&area=true&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Samie's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=abdulsamie10&bg_color=0a0a0a&color=ffffff&line=0571ff&point=1d1b1b&area=true&hide_border=true" /></a>
   <br/>
 
 ## 🐍 See my contributions being eaten by a snake:
-![snake animation](https://github.com/abdulsamieofficial/abdulsamieofficial/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/abdulsamieofficial/abdulsamie10/blob/output/github-contribution-grid-snake.gif)
 
 ## 🛠️ My Skills
 
