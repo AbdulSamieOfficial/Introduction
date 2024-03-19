@@ -6,7 +6,7 @@
 </p>
 
 <hr/>
-<h4 align="center">I am a passionate and innovative senior at FAST-NUCES Islamabad, Pakistan with a love for coding, design, and experimentation. I thrive on taking on new challenges and acquiring new skills, and I enjoy meeting new people and exchanging ideas to foster positivity and knowledge-sharing.</h4>
+<h4 align="center">As a degree holder of BS in Computer Science from FAST National University of Computer and Emerging Sciences, my journey has been marked by a deep passion for technology and a solid academic foundation. Now, as I step into the world as a proficient software engineer, I am eager to apply my skills and knowledge to push the boundaries of software engineering. Driven by innovation and a commitment to contribute to technological advancements, I am ready to make a significant impact in the field.</h4>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdulSamie10&label=Profile%20views&color=0e75b6&style=plastic" alt="abdulsamie10" /> </p>
