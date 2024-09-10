@@ -24,14 +24,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-## ⚡ GitHub Activity Graph:
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Samie's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=abdulsamie10&bg_color=0a0a0a&color=ffffff&line=0571ff&point=1d1b1b&area=true&hide_border=true" /></a>
-  <br/>
-
-## 🐍 See my contributions being eaten by a snake:
-![snake animation](https://github.com/abdulsamie10/abdulsamie10/blob/output/github-contribution-grid-snake.gif)
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
